@@ -6,3 +6,9 @@ FitForHer Template is a modern website aimed at promoting balanced diets for gir
 - **Nutrition Guides**: Learn more about healthy food choices and meal plans.
 - **Healthy Recipes**: Explore delicious and nutritious meals that are easy to prepare.
 
+## screenshots
+
+![alt text](https://github.com/lizzymax96/Fit-For-Her/blob/main/screenshots/screenshot-web.png?raw=true)
+
+
+![alt text](https://github.com/lizzymax96/Fit-For-Her/blob/main/screenshots/screenshot-mobile.png?raw=true)
