@@ -1,0 +1,11 @@
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+header .text-center {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
